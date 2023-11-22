@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ksahin/ros2_ws/install/velodyne_msgs/lib/python3.8/site-packages",
+        "/home/ksahin/ros2_ws/build/v60_follow_me",
+        "/home/ksahin/ros2_ws/install/v60_follow_me/lib/python3.8/site-packages",
+        "/home/ksahin/ros2_ws/build/my_py_pkg",
+        "/home/ksahin/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages",
+        "/home/ksahin/ros2_ws/install/my_interfaces/lib/python3.8/site-packages",
+        "/home/ksahin/ghost_sim/GhostSDK/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ksahin/ros2_ws/install/velodyne_msgs/lib/python3.8/site-packages",
+        "/home/ksahin/ros2_ws/build/v60_follow_me",
+        "/home/ksahin/ros2_ws/install/v60_follow_me/lib/python3.8/site-packages",
+        "/home/ksahin/ros2_ws/build/my_py_pkg",
+        "/home/ksahin/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages",
+        "/home/ksahin/ros2_ws/install/my_interfaces/lib/python3.8/site-packages",
+        "/home/ksahin/ghost_sim/GhostSDK/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}
